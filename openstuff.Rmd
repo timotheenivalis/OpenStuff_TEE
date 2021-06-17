@@ -45,13 +45,16 @@ style_duo_accent(
 )
 ```
 
-## 1. Why open-source / freeware / free software?
 
-## 2. Operating System &#x1F427;
+## 1. Operating System &#x1F427;
+
+## 2. Why open-source / free software? 
 
 ## 3. Science stuff &#x1F52C;
 
 ## 4. Normal life stuff &#x1F63A;
+
+
 
 ---
 class: center, middle, animated, slideInRight
@@ -74,14 +77,34 @@ class: inverse, center, middle, animated, bounceInDown
 
 
 ---
-class: inverse, center, middle, animated, bounceInDown
 
-# Linux (Ubuntu): What it really is
+## Linux (Ubuntu): What it really is
 
 > Command line powerful but unecessary
+>
 > Installation super easy
+>
 > Start with double-boot (and soon never use Windows/MacOS again)
-> 
+
+
+### Compared to Windows
+
+### Compared to MacOS
+
+---
+class: center, middle
+
+## I am no expert but... 
+### Proprietary software slows down science
+
+--
+
+### ... prevents human progress
+
+--
+
+### Is a source of broad inequality
+
 
 ---
 class: middle, animated, bounceInDown
@@ -111,7 +134,7 @@ class: middle, animated, bounceInDown
 
 # Academic office work
 
-* Slides: Powerpoint  &#8594; LibreOffice Impress, $\LaTeX$ Beamer, RPres, Markdown Sharingan <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg" height="40px" />
+* Slides: Powerpoint  &#8594; LibreOffice Impress, $\LaTeX$ Beamer, RPres, Markdown Xaringan <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg" height="40px" />
 * Writing: Microsoft Word &#8594; LibreOffice, $\LaTeX$, Markdown, Pandoc...
 * Spreadsheet: Microsoft Excel &#8594; LibreOffice Calc
 * Reference manager: <b>Mendeley</b>, Endnote &#8594; Zotero
@@ -194,4 +217,3 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharin
 [https://github.com/gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
 
 The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com). Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
-
